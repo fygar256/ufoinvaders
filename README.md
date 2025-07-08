@@ -1,11 +1,11 @@
 UFOINVADER (ufoinvader.py)
 
-昔懐かしのPCゲームを今のパソコンに移植しようシリーズGames in the atticその５
+Let's port old PC games to modern computers, Games in the attic, part 5
 
-上から侵略してくる敵を砲弾で撃破し、画面最下段のラインにまで来ないようにするゲームです。65体の敵を倒したらミッションクリア、敵が画面最下段にまで到着したらゲームオーバーです。
+This is a game where you shoot down enemies invading from above with artillery shells and prevent them from reaching the bottom line of the screen. If you kill 65 enemies, the mission is cleared, and if they reach the bottom of the screen, the game is over.
 
-オリジナルは、42年前のCommodoleのCBM3032にあったゲームで、正式名称は忘れたましたが、何体敵を倒したら終わりということはなかったと思います。同人誌CURSORのゲームだったと思います。記憶があやふやなもので、思い出せません。
+The original was a game on Commodore's CBM3032 42 years ago, and I've forgotten the official name, but I don't think there was a limit to how many enemies you had to kill to finish. I think it was a game from the doujinshi CURSOR. My memory is hazy, so I can't remember.
 
-キー操作は、'space'で砲撃、'4'でキャノンが左へ移動、'6'でキャノンが右に移動します。'q'でゲームを抜けます。
+The key operations are 'space' to fire, '4' to move the cannon left, and '6' to move the cannon right. 'q' to quit the game.
 
-すごく単純なゲームです。敵の撃破数が出ますので、スコアを競ってください。
+It's a very simple game. The number of enemies you've killed will be displayed, so compete for the highest score.
